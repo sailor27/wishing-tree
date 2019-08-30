@@ -1,0 +1,15 @@
+
+*.env
+.DS_Store
+build/
+node_modules/
+reports/
+npm-debug.log
+archive.tar.gz
+pra.md
+.idea/
+*.orig
+coverage
+.vscode/
+.history/
+junit.xml

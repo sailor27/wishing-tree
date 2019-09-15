@@ -19,3 +19,15 @@ In addition to a menu to record a subject and message on the Futel phone, I hope
 ### Constraints:
 After creating menu recordings and the interface for interacting with them, I intend to play a maintenance role in this project by moderating and curating the user-recorded content. The content is restricted to 5-10 messages, and since I want users to record a subject as well as an expanded message, I would limit the menu to listen to 5 messages at a time, which I would screen before they go live. The instructions for recording will include a brief Code of Conduct statement to disuade participants from sexual harrassment, broadcasting personal information, and comments about eachother that are racist, homophobic, transphobic or generally harmful in other ways, which would lead to their recording being excluded from the phone menu. A better sense of the frequency people will make recordings is needed, but my thought for now would be to keep recordings up for 1 week, and air a new set of recordings each week.
 
+## Proposed Features:
+* Instruction menu available in English and Spanish
+* listen to missed connections (by subject) from [start date] to [end date]
+* listen to more info about missed connections (a version of the text above)
+* listen to more information about the Wishing Tree on 7th
+* listen to a missed connections message and get voicemail contact
+* record a missed connection
+  * record a subject (under 100 words)
+  * record a message (under 90 seconds)
+* reply to a message by recording a voicemail
+* check you message's voicemail
+

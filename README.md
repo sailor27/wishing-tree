@@ -30,5 +30,5 @@ After creating menu recordings and the interface for interacting with them, I in
   * record a subject (under 100 words)
   * record a message (under 90 seconds)
 * reply to a message by recording a voicemail
-* check you message's voicemail
+* check your message's voicemail
 
